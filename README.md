@@ -1,0 +1,1 @@
+##A Flask app converts image to 8 bit style 
