@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>8bit 图片转换</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="http://cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <style type="text/css">
+      .container {
+        max-width: 500px;
+        padding-top: 5px;
+      }
+      .footer {
+    font-size: 12px;
+      background-color: #FFF;
+      position:fixed;
+      bottom: 0px;
+      width: 100%;
+      text-align: center;  
+      }
+      h2 {color: #3333CC;}
+      h3 {color: #3333CC;}
+      h4 {color: #3333CC;}
+      h5 {color: #3333CC;}
+      form { 
+    margin: 0 auto; 
+    width:250px;
+      }
+      p {
+        word-wrap: break-word; 
+      }
+    </style>
+  </head>
+  <body>
+
+  <label class="control-label">Select File</label>
+  <input id="input-4" type="file" multiple=true class="file-loading">
+  <script>
+  $(document).on('ready', function() {
+      $("#input-4").fileinput({showCaption: false});
+  });
+  </script>
+    <script src="http://cdn.bootcss.com/jquery/2.1.4/jquery.min.js"></script>
+    <script src="http://cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  </body>
+</html>
