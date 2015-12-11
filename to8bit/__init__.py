@@ -41,6 +41,7 @@ class to8bit:
     def pixelize(self, palette, blocksize=8):
         self._pad(blocksize)
         row = 0
+        print "running...."
         while row < self.imgarray.shape[0]:
             col = 0
             while col < self.imgarray.shape[1]:
