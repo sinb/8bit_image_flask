@@ -2,7 +2,7 @@
 numpy
 
 Image
-##本地运行不要flask的
+##本地运行不要flask
 ```python
 python run_local.py test.jpg
 ```
