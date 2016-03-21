@@ -4,8 +4,8 @@ numpy
 Image
 ```
 ##效果
-<img src="https://github.com/sinb/8bit_your_photo/raw/master/favicon.jpgg"  width="200" />
-<img src="https://github.com/sinb/8bit_your_photo/raw/master/output.png"  width="200" />
+<img src="https://github.com/sinb/8bit_your_photo/raw/master/favicon.jpg"  width="350" />
+<img src="https://github.com/sinb/8bit_your_photo/raw/master/output.png"  width="350" />
 ##本地运行不需要flask
 ```python
 python run_local.py test.jpg
