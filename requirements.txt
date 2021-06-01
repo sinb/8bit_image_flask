@@ -187,7 +187,7 @@ trollius==1.0.4
 typogrify==2.0.7
 uTidylib==0.2
 ua-parser==0.3.6
-urllib3==1.7.1
+urllib3==1.26.5
 user-agents==0.3.2
 virtualenv==12.1.1
 w3lib==1.11.0
