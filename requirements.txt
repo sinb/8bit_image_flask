@@ -159,7 +159,7 @@ pyzmq==14.0.1
 qtile==0.9.1
 queuelib==1.2.2
 rauth==0.7.1
-reportlab==3.0
+reportlab==3.5.55
 repoze.lru==0.6
 requests==2.3.0
 rodeo==0.4.4
