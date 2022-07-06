@@ -87,7 +87,7 @@ feedparser==5.1.3
 futures==3.0.2
 git-cola==2.3
 gyp==0.1
-html5lib==0.999
+html5lib==0.999999999
 httplib2==0.8
 ipykernel==4.0.3
 ipython==1.2.1
