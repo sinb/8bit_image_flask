@@ -129,7 +129,7 @@ pep8==1.4.6
 pexpect==3.3
 pickleshare==0.5
 piston-mini-client==0.7.5
-protobuf==2.5.0
+protobuf==3.18.3
 pyOpenSSL==0.13
 pyasn1==0.1.7
 pychm==0.8.4
