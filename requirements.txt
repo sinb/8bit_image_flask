@@ -94,7 +94,7 @@ ipython==1.2.1
 ipython-genutils==0.1.0
 itsdangerous==0.24
 jieba==0.35
-joblib==0.7.1
+joblib==1.2.0
 jupyter-client==4.0.0
 jupyter-core==4.0.4
 keyring==3.5
